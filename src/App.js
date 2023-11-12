@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import WordCounter from "./WordCounter";
+import WordCounter from "./WordCounter.js";
 
 function App() {
   return (
